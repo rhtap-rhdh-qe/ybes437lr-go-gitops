@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ybes437lr-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ybes437lr-go
